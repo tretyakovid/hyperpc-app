@@ -5,7 +5,7 @@ import Header from "./components/UI/Header/Header";
 import Basket from "./pages/Basket";
 import NotFound from "./pages/NotFound";
 import "./styles/style.css";
-import Comparison from "./pages/Сomparison";
+import Comparison from "./pages/Comparison";
 
 function App() {
   return (
